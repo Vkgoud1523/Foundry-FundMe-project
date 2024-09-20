@@ -1,3 +1,7 @@
+## ABOUT
+
+This is a Crowd Funding Project is a technique used to raise money for a project or business when a large number of individuals contribute modest sums of money, usually online. This decentralized method democratizes access to cash by enabling project developers to accept contributions from a wider range of donors.
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
